@@ -1,0 +1,8 @@
+
+.list{
+	background: none repeat scroll 0% 0% #F2F2F2;
+	border: 1px solid #D9D9D9;
+	max-width: 400px;
+	min-width: 320px;
+	float: right;
+}
